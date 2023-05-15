@@ -1,0 +1,131 @@
+Adjusting learning rate of group 0 to 5.0000e-05.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.67it/s]
+Adjusting learning rate of group 0 to 1.0000e-04.
+In epoch 0, average training loss is 1.8083935608644315, average training acc is 0.3244485294117647.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.98it/s]
+In epoch 0, average validation loss is 1.6004225630669078, average validation acc is 0.4186902866242038.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.66it/s]
+Adjusting learning rate of group 0 to 1.5000e-04.
+In epoch 1, average training loss is 1.5094731855575385, average training acc is 0.44429347826086957.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.84it/s]
+In epoch 1, average validation loss is 1.3724451156178856, average validation acc is 0.49960191082802546.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.65it/s]
+Adjusting learning rate of group 0 to 2.0000e-04.
+In epoch 2, average training loss is 1.3109928499859618, average training acc is 0.5258351982097187.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.69it/s]
+In epoch 2, average validation loss is 1.2131680743709492, average validation acc is 0.5644904458598726.
+100%|█████████████████████████████████████████| 782/782 [01:58<00:00,  6.59it/s]
+Adjusting learning rate of group 0 to 2.4901e-04.
+In epoch 3, average training loss is 1.18965391056312, average training acc is 0.5711317135549873.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.43it/s]
+In epoch 3, average validation loss is 1.1575063755557795, average validation acc is 0.5867834394904459.
+100%|█████████████████████████████████████████| 782/782 [01:58<00:00,  6.62it/s]
+Adjusting learning rate of group 0 to 2.4846e-04.
+In epoch 4, average training loss is 1.0991351467264279, average training acc is 0.6049992007672634.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.91it/s]
+In epoch 4, average validation loss is 1.0838977728679682, average validation acc is 0.6116640127388535.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.67it/s]
+Adjusting learning rate of group 0 to 2.4779e-04.
+In epoch 5, average training loss is 1.0079614200707896, average training acc is 0.6369884910485933.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.78it/s]
+In epoch 5, average validation loss is 1.0077854053230042, average validation acc is 0.6328622611464968.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.65it/s]
+Adjusting learning rate of group 0 to 2.4699e-04.
+In epoch 6, average training loss is 0.9351514396841264, average training acc is 0.6639026534526854.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.95it/s]
+In epoch 6, average validation loss is 0.9619043856669384, average validation acc is 0.6584394904458599.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.65it/s]
+Adjusting learning rate of group 0 to 2.4607e-04.
+In epoch 7, average training loss is 0.8703271409739619, average training acc is 0.6900775255754475.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.62it/s]
+In epoch 7, average validation loss is 0.9727154518388639, average validation acc is 0.6515724522292994.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.64it/s]
+Adjusting learning rate of group 0 to 2.4504e-04.
+In epoch 8, average training loss is 0.812221773750032, average training acc is 0.707281010230179.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.90it/s]
+In epoch 8, average validation loss is 0.8795000971502559, average validation acc is 0.6875995222929936.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.66it/s]
+Adjusting learning rate of group 0 to 2.4388e-04.
+In epoch 9, average training loss is 0.7606978191972693, average training acc is 0.7301190856777494.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.76it/s]
+In epoch 9, average validation loss is 0.8719477873698921, average validation acc is 0.6886942675159236.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.63it/s]
+Adjusting learning rate of group 0 to 2.4261e-04.
+In epoch 10, average training loss is 0.7078647629912856, average training acc is 0.7482816496163683.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.60it/s]
+In epoch 10, average validation loss is 0.8672318955895247, average validation acc is 0.6972531847133758.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.64it/s]
+Adjusting learning rate of group 0 to 2.4122e-04.
+In epoch 11, average training loss is 0.6696397435024876, average training acc is 0.759610773657289.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.91it/s]
+In epoch 11, average validation loss is 0.8691338031155289, average validation acc is 0.6929737261146497.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.66it/s]
+Adjusting learning rate of group 0 to 2.3972e-04.
+In epoch 12, average training loss is 0.6220285368087651, average training acc is 0.778093030690537.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 15.00it/s]
+In epoch 12, average validation loss is 0.8398871790071961, average validation acc is 0.7057125796178344.
+100%|█████████████████████████████████████████| 782/782 [01:56<00:00,  6.69it/s]
+Adjusting learning rate of group 0 to 2.3810e-04.
+In epoch 13, average training loss is 0.5775413760329451, average training acc is 0.7925591432225064.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.94it/s]
+In epoch 13, average validation loss is 0.8643568046153731, average validation acc is 0.707703025477707.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.66it/s]
+Adjusting learning rate of group 0 to 2.3638e-04.
+In epoch 14, average training loss is 0.5277220141476072, average training acc is 0.8110414002557544.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.62it/s]
+In epoch 14, average validation loss is 0.8967734689165832, average validation acc is 0.7061106687898089.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.64it/s]
+Adjusting learning rate of group 0 to 2.3454e-04.
+In epoch 15, average training loss is 0.48421754695646596, average training acc is 0.8286245204603581.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.78it/s]
+In epoch 15, average validation loss is 0.884195009614252, average validation acc is 0.7107882165605095.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.66it/s]
+Adjusting learning rate of group 0 to 2.3259e-04.
+In epoch 16, average training loss is 0.43690249024678374, average training acc is 0.8433903452685422.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.94it/s]
+In epoch 16, average validation loss is 0.9028262966757368, average validation acc is 0.7057125796178344.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.67it/s]
+Adjusting learning rate of group 0 to 2.3054e-04.
+In epoch 17, average training loss is 0.39191708742352704, average training acc is 0.8619125639386189.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.80it/s]
+In epoch 17, average validation loss is 0.8924441138270555, average validation acc is 0.7144705414012739.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.64it/s]
+Adjusting learning rate of group 0 to 2.2839e-04.
+In epoch 18, average training loss is 0.34814554795889596, average training acc is 0.8766584079283888.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.81it/s]
+In epoch 18, average validation loss is 0.965452689653749, average validation acc is 0.7153662420382165.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.64it/s]
+Adjusting learning rate of group 0 to 2.2613e-04.
+In epoch 19, average training loss is 0.3096096514035826, average training acc is 0.88900655370844.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.78it/s]
+In epoch 19, average validation loss is 1.0236104552153569, average validation acc is 0.7027269108280255.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.66it/s]
+Adjusting learning rate of group 0 to 2.2377e-04.
+In epoch 20, average training loss is 0.2784011153327992, average training acc is 0.8990169437340153.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.66it/s]
+In epoch 20, average validation loss is 0.9935827481139238, average validation acc is 0.7092953821656051.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.65it/s]
+Adjusting learning rate of group 0 to 2.2131e-04.
+In epoch 21, average training loss is 0.24161666847022292, average training acc is 0.9150015984654731.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.84it/s]
+In epoch 21, average validation loss is 1.0902176419640803, average validation acc is 0.7100915605095541.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.65it/s]
+Adjusting learning rate of group 0 to 2.1876e-04.
+In epoch 22, average training loss is 0.21390289187793385, average training acc is 0.9241927749360613.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.53it/s]
+In epoch 22, average validation loss is 1.0409496753079117, average validation acc is 0.716859076433121.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.66it/s]
+Adjusting learning rate of group 0 to 2.1612e-04.
+In epoch 23, average training loss is 0.1948039213033474, average training acc is 0.9311261189258312.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.86it/s]
+In epoch 23, average validation loss is 1.1083970821587144, average validation acc is 0.7083996815286624.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.65it/s]
+Adjusting learning rate of group 0 to 2.1339e-04.
+In epoch 24, average training loss is 0.17278613020544467, average training acc is 0.9381593670076727.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.77it/s]
+In epoch 24, average validation loss is 1.1197552806252886, average validation acc is 0.7159633757961783.
+100%|█████████████████████████████████████████| 782/782 [01:57<00:00,  6.65it/s]
+Adjusting learning rate of group 0 to 2.1057e-04.
+In epoch 25, average training loss is 0.16087423351443256, average training acc is 0.9427549552429667.
+100%|█████████████████████████████████████████| 157/157 [00:10<00:00, 14.97it/s]
+In epoch 25, average validation loss is 1.1402361187965246, average validation acc is 0.7063097133757962.
