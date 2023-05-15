@@ -1,0 +1,3 @@
+epoch:1, train_loss:7.9477, train_acc:0.0046 dot_positive:3.3478
+epoch:2, train_loss:7.6124, train_acc:0.0103 dot_positive:2.1495
+epoch:3, train_loss:7.2854, train_acc:0.0250 dot_positive:3.3957
